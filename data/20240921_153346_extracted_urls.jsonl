@@ -1,0 +1,50 @@
+{"url": "https://typer.tiangolo.com/", "title": "Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/features/", "title": "Features - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/", "title": "Learn - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/resources/", "title": "Resources - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/about/", "title": "About - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/release-notes/", "title": "Release Notes - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/environment-variables/", "title": "Environment Variables - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/virtual-environments/", "title": "Virtual Environments - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/install/", "title": "Install Typer - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/first-steps/", "title": "First Steps - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/printing/", "title": "Printing and Colors - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/terminating/", "title": "Terminating - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/arguments/", "title": "CLI Arguments - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/arguments/optional/", "title": "Optional CLI Arguments - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/arguments/default/", "title": "CLI Arguments with Default - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/arguments/help/", "title": "CLI Arguments with Help - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/arguments/envvar/", "title": "CLI Arguments with Environment Variables - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/arguments/other-uses/", "title": "Other uses - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/options/", "title": "CLI Options - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/options/help/", "title": "CLI Options with Help - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/options/required/", "title": "Required CLI Options - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/options/prompt/", "title": "CLI Option Prompt - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/options/password/", "title": "Password CLI Option and Confirmation Prompt - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/options/name/", "title": "CLI Option Name - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/options/callback-and-context/", "title": "CLI Option Callback and Context - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/options/version/", "title": "Version CLI Option, is_eager - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/commands/", "title": "Commands - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/commands/arguments/", "title": "Command CLI Arguments - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/commands/options/", "title": "Command CLI Options - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/commands/help/", "title": "Command Help - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/commands/name/", "title": "Custom Command Name - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/commands/callback/", "title": "Typer Callback - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/commands/one-or-multiple/", "title": "One or Multiple Commands - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/commands/context/", "title": "Using the Context - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/options-autocompletion/", "title": "CLI Option autocompletion - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/parameter-types/", "title": "CLI Parameter Types - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/parameter-types/number/", "title": "Number - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/parameter-types/bool/", "title": "Boolean CLI Options - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/parameter-types/uuid/", "title": "UUID - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/parameter-types/datetime/", "title": "DateTime - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/parameter-types/enum/", "title": "Enum - Choices - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/parameter-types/path/", "title": "Path - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/parameter-types/file/", "title": "File - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/parameter-types/custom-types/", "title": "Custom Types - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/subcommands/", "title": "SubCommands - Command Groups - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/subcommands/add-typer/", "title": "Add Typer - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/subcommands/single-file/", "title": "SubCommands in a Single File - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/subcommands/nested-subcommands/", "title": "Nested SubCommands - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/subcommands/callback-override/", "title": "Sub-Typer Callback Override - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"url": "https://typer.tiangolo.com/tutorial/subcommands/name-and-help/", "title": "SubCommand Name and Help - Typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}

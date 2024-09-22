@@ -1,0 +1,125 @@
+2024-09-21 15:32:21,761 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/
+2024-09-21 15:32:22,232 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153220_extracted_urls.jsonl
+2024-09-21 15:32:23,239 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/features/
+2024-09-21 15:32:23,329 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153220_extracted_urls.jsonl
+2024-09-21 15:32:24,335 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/
+2024-09-21 15:32:24,413 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153220_extracted_urls.jsonl
+2024-09-21 15:32:25,419 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/resources/
+2024-09-21 15:32:25,500 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153220_extracted_urls.jsonl
+2024-09-21 15:32:26,505 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/about/
+2024-09-21 15:32:26,583 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153220_extracted_urls.jsonl
+2024-09-21 15:32:27,587 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/release-notes/
+2024-09-21 15:32:27,785 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153220_extracted_urls.jsonl
+2024-09-21 15:32:28,812 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/environment-variables/
+2024-09-21 15:32:28,907 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153220_extracted_urls.jsonl
+2024-09-21 15:32:29,913 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/virtual-environments/
+2024-09-21 15:32:30,028 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153220_extracted_urls.jsonl
+2024-09-21 15:32:31,036 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/install/
+2024-09-21 15:32:31,109 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153220_extracted_urls.jsonl
+2024-09-21 15:32:32,114 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/first-steps/
+2024-09-21 15:32:32,242 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153220_extracted_urls.jsonl
+2024-09-21 15:32:33,250 - rmd.core.log - INFO - links.py:27 - Crawl completed. Visited 10 unique URLs.
+2024-09-21 15:33:46,944 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/
+2024-09-21 15:33:47,135 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:33:48,141 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/features/
+2024-09-21 15:33:48,224 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:33:49,231 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/
+2024-09-21 15:33:49,313 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:33:50,319 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/resources/
+2024-09-21 15:33:50,389 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:33:51,394 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/about/
+2024-09-21 15:33:51,468 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:33:52,474 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/release-notes/
+2024-09-21 15:33:52,717 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:33:53,745 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/environment-variables/
+2024-09-21 15:33:53,842 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:33:54,848 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/virtual-environments/
+2024-09-21 15:33:54,973 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:33:55,982 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/install/
+2024-09-21 15:33:56,059 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:33:57,065 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/first-steps/
+2024-09-21 15:33:57,195 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:33:58,202 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/printing/
+2024-09-21 15:33:58,321 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:33:59,328 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/terminating/
+2024-09-21 15:33:59,417 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:00,424 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/arguments/
+2024-09-21 15:34:00,494 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:01,499 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/arguments/optional/
+2024-09-21 15:34:01,605 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:02,611 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/arguments/default/
+2024-09-21 15:34:02,739 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:03,746 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/arguments/help/
+2024-09-21 15:34:03,895 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:04,903 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/arguments/envvar/
+2024-09-21 15:34:05,007 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:06,013 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/arguments/other-uses/
+2024-09-21 15:34:06,086 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:07,091 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/options/
+2024-09-21 15:34:07,164 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:08,170 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/options/help/
+2024-09-21 15:34:08,287 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:09,293 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/options/required/
+2024-09-21 15:34:09,414 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:10,420 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/options/prompt/
+2024-09-21 15:34:10,516 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:11,522 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/options/password/
+2024-09-21 15:34:11,611 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:12,616 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/options/name/
+2024-09-21 15:34:12,774 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:13,782 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/options/callback-and-context/
+2024-09-21 15:34:13,912 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:14,920 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/options/version/
+2024-09-21 15:34:15,061 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:16,068 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/commands/
+2024-09-21 15:34:16,177 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:17,184 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/commands/arguments/
+2024-09-21 15:34:17,262 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:18,267 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/commands/options/
+2024-09-21 15:34:18,359 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:19,364 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/commands/help/
+2024-09-21 15:34:19,569 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:20,579 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/commands/name/
+2024-09-21 15:34:20,664 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:21,670 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/commands/callback/
+2024-09-21 15:34:21,810 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:22,815 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/commands/one-or-multiple/
+2024-09-21 15:34:22,900 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:23,906 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/commands/context/
+2024-09-21 15:34:24,000 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:25,006 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/options-autocompletion/
+2024-09-21 15:34:25,210 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:26,221 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/parameter-types/
+2024-09-21 15:34:26,299 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:27,304 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/parameter-types/number/
+2024-09-21 15:34:27,420 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:28,425 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/parameter-types/bool/
+2024-09-21 15:34:28,533 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:29,540 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/parameter-types/uuid/
+2024-09-21 15:34:29,785 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:30,791 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/parameter-types/datetime/
+2024-09-21 15:34:30,881 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:31,887 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/parameter-types/enum/
+2024-09-21 15:34:32,023 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:33,029 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/parameter-types/path/
+2024-09-21 15:34:33,125 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:34,132 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/parameter-types/file/
+2024-09-21 15:34:34,248 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:35,255 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/parameter-types/custom-types/
+2024-09-21 15:34:35,343 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:36,349 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/subcommands/
+2024-09-21 15:34:36,423 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:37,429 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/subcommands/add-typer/
+2024-09-21 15:34:37,720 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:38,727 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/subcommands/single-file/
+2024-09-21 15:34:39,014 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:40,021 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/subcommands/nested-subcommands/
+2024-09-21 15:34:40,319 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:41,327 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/subcommands/callback-override/
+2024-09-21 15:34:41,419 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:42,426 - rmd.core.log - INFO - links.py:34 - Crawling: https://typer.tiangolo.com/tutorial/subcommands/name-and-help/
+2024-09-21 15:34:42,600 - rmd.core.log - INFO - file_handler.py:24 - Data appended to /Users/willcasswrig/repos/roast-my-docs/data/20240921_153346_extracted_urls.jsonl
+2024-09-21 15:34:43,609 - rmd.core.log - INFO - links.py:27 - Crawl completed. Visited 50 unique URLs.
+2024-09-21 16:01:25,497 - rmd.core.log - INFO - file_handler.py:24 - Data saved to /Users/willcasswrig/repos/roast-my-docs/data/typer.md
+2024-09-21 16:01:25,497 - rmd.core.log - INFO - url_to_md.py:53 - Markdown saved to /Users/willcasswrig/repos/roast-my-docs/data/typer.md
+2024-09-21 16:01:25,497 - rmd.core.log - INFO - url_to_md.py:61 - Conversion completed successfully
